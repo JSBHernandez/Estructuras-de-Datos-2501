@@ -1,0 +1,14 @@
+/home/juanse/Desktop/2025-1/Estructuras/app/bin/Debug/net9.0/app
+/home/juanse/Desktop/2025-1/Estructuras/app/bin/Debug/net9.0/app.deps.json
+/home/juanse/Desktop/2025-1/Estructuras/app/bin/Debug/net9.0/app.runtimeconfig.json
+/home/juanse/Desktop/2025-1/Estructuras/app/bin/Debug/net9.0/app.dll
+/home/juanse/Desktop/2025-1/Estructuras/app/bin/Debug/net9.0/app.pdb
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/app.AssemblyInfoInputs.cache
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/app.AssemblyInfo.cs
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/app.csproj.CoreCompileInputs.cache
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/app.dll
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/refint/app.dll
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/app.pdb
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/app.genruntimeconfig.cache
+/home/juanse/Desktop/2025-1/Estructuras/app/obj/Debug/net9.0/ref/app.dll

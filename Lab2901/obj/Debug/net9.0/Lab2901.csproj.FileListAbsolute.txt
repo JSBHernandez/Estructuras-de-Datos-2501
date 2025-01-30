@@ -1,0 +1,14 @@
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/bin/Debug/net9.0/Lab2901
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/bin/Debug/net9.0/Lab2901.deps.json
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/bin/Debug/net9.0/Lab2901.runtimeconfig.json
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/bin/Debug/net9.0/Lab2901.dll
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/bin/Debug/net9.0/Lab2901.pdb
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/Lab2901.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/Lab2901.AssemblyInfoInputs.cache
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/Lab2901.AssemblyInfo.cs
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/Lab2901.csproj.CoreCompileInputs.cache
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/Lab2901.dll
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/refint/Lab2901.dll
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/Lab2901.pdb
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/Lab2901.genruntimeconfig.cache
+/home/juanse/Desktop/2025-1/Estructuras/Lab2901/obj/Debug/net9.0/ref/Lab2901.dll
