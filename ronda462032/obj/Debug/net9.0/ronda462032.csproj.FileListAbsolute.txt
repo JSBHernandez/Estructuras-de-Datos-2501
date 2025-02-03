@@ -1,0 +1,15 @@
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/bin/Debug/net9.0/ronda462032
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/bin/Debug/net9.0/ronda462032.deps.json
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/bin/Debug/net9.0/ronda462032.runtimeconfig.json
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/bin/Debug/net9.0/ronda462032.dll
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/bin/Debug/net9.0/ronda462032.pdb
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.GeneratedMSBuildEditorConfig.editorconfig
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.AssemblyInfoInputs.cache
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.AssemblyInfo.cs
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.csproj.CoreCompileInputs.cache
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.sourcelink.json
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.dll
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/refint/ronda462032.dll
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.pdb
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ronda462032.genruntimeconfig.cache
+/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/Debug/net9.0/ref/ronda462032.dll

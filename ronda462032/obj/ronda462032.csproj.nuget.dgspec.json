@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ProyectoAula/Proyecto/Proyecto.csproj": {}
+    "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/ronda462032.csproj": {}
   },
   "projects": {
-    "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ProyectoAula/Proyecto/Proyecto.csproj": {
+    "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/ronda462032.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ProyectoAula/Proyecto/Proyecto.csproj",
-        "projectName": "Proyecto",
-        "projectPath": "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ProyectoAula/Proyecto/Proyecto.csproj",
+        "projectUniqueName": "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/ronda462032.csproj",
+        "projectName": "ronda462032",
+        "projectPath": "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/ronda462032.csproj",
         "packagesPath": "/home/juanse/.nuget/packages/",
-        "outputPath": "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ProyectoAula/Proyecto/obj/",
+        "outputPath": "/home/juanse/Documents/GitHub/Estructuras-de-Datos-2501/ronda462032/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/juanse/.nuget/NuGet/NuGet.Config"
