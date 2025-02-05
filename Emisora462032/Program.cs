@@ -127,25 +127,25 @@ namespace EmisoraUPB
         static void Main(string[] args)
         {
             ListaDobleEnlazada lista = new ListaDobleEnlazada();
-            lista.AgregarCancion("Cancion1", "Artista1", "3:00");
-            lista.AgregarCancion("Cancion2", "Artista2", "3:30");
-            lista.AgregarCancion("Cancion3", "Artista3", "4:00");
-            lista.AgregarCancion("Cancion4", "Artista4", "4:30");
-            lista.AgregarCancion("Cancion5", "Artista5", "5:00");
-            lista.AgregarCancion("Cancion6", "Artista6", "5:30");
-            lista.AgregarCancion("Cancion7", "Artista7", "6:00");
-            lista.AgregarCancion("Cancion8", "Artista8", "6:30");
-            lista.AgregarCancion("Cancion9", "Artista9", "7:00");
-            lista.AgregarCancion("Cancion10", "Artista10", "7:30");
+            lista.AgregarCancion("Honey!", "Tabber, Dean", "3:34");
+            lista.AgregarCancion("Boy Comics", "Xdinary Heroes", "3:14");
+            lista.AgregarCancion("OK!", "NCT U", "3:49");
+            lista.AgregarCancion("Sugar", "System Of A Down", "2:33");
+            lista.AgregarCancion("Easy", "Jaehyun", "3:14");
+            lista.AgregarCancion("Venus", "Jey", "1:55");
+            lista.AgregarCancion("Touch", "Katseye", "2:09");
+            lista.AgregarCancion("I Get Around", "2Pac", "4:19");
+            lista.AgregarCancion("Goodbye", "Yuta", "3:15");
+            lista.AgregarCancion("She A Wolf", "WayV", "3:15");
             lista.MostrarListaReproduccion();
-            Console.WriteLine("Cancion anterior a Cancion5");
-            Console.WriteLine(lista.AnteriorCancion("Cancion5").NombreCancion);
-            Console.WriteLine("Cancion siguiente a Cancion5");
-            Console.WriteLine(lista.SiguienteCancion("Cancion5").NombreCancion);
-            Console.WriteLine("Cancion actual Cancion5");
-            Console.WriteLine(lista.ActualCancion("Cancion5").NombreCancion);
-            Console.WriteLine("Eliminando Cancion5");
-            lista.EliminarCancion("Cancion5");
+            Console.WriteLine("Cancion anterior a Easy");
+            Console.WriteLine(lista.AnteriorCancion("Easy").NombreCancion);
+            Console.WriteLine("Cancion siguiente a Easy");
+            Console.WriteLine(lista.SiguienteCancion("Easy").NombreCancion);
+            Console.WriteLine("Cancion actual Easy");
+            Console.WriteLine(lista.ActualCancion("Easy").NombreCancion);
+            Console.WriteLine("Eliminando Easy");
+            lista.EliminarCancion("Easy");
             lista.MostrarListaReproduccion();
         }
     }

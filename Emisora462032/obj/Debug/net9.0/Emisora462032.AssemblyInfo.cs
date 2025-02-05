@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Emisora462032")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6750d546b6765a5db7559223f192a4439f989e78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac14f0df50731be098a4a0a6714f696924e07549")]
 [assembly: System.Reflection.AssemblyProductAttribute("Emisora462032")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Emisora462032")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
