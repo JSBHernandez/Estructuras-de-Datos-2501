@@ -1,0 +1,7 @@
+D:\UPB\2025\CURSOS\1. ESTRUCTURA_DATOS\Semanas\Semana 5\ImplementacionPilas\bin\Debug\ImplementacionPilas.exe.config
+D:\UPB\2025\CURSOS\1. ESTRUCTURA_DATOS\Semanas\Semana 5\ImplementacionPilas\bin\Debug\ImplementacionPilas.exe
+D:\UPB\2025\CURSOS\1. ESTRUCTURA_DATOS\Semanas\Semana 5\ImplementacionPilas\bin\Debug\ImplementacionPilas.pdb
+D:\UPB\2025\CURSOS\1. ESTRUCTURA_DATOS\Semanas\Semana 5\ImplementacionPilas\obj\Debug\ImplementacionPilas.csproj.AssemblyReference.cache
+D:\UPB\2025\CURSOS\1. ESTRUCTURA_DATOS\Semanas\Semana 5\ImplementacionPilas\obj\Debug\ImplementacionPilas.csproj.CoreCompileInputs.cache
+D:\UPB\2025\CURSOS\1. ESTRUCTURA_DATOS\Semanas\Semana 5\ImplementacionPilas\obj\Debug\ImplementacionPilas.exe
+D:\UPB\2025\CURSOS\1. ESTRUCTURA_DATOS\Semanas\Semana 5\ImplementacionPilas\obj\Debug\ImplementacionPilas.pdb

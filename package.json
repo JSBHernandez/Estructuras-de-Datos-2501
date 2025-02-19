@@ -1,0 +1,20 @@
+{
+  "name": "estructuras-de-datos-2501",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSBHernandez/Estructuras-de-Datos-2501.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSBHernandez/Estructuras-de-Datos-2501/issues"
+  },
+  "homepage": "https://github.com/JSBHernandez/Estructuras-de-Datos-2501#readme"
+}
