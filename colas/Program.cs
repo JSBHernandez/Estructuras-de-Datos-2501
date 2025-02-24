@@ -48,4 +48,16 @@ namespace Colas {
         }
     }
 
+    class Program {
+        static void Main(string[]args) {
+            Cola cola = new Cola();
+            cola.Insertar(10);
+            cola.Insertar(20);
+            cola.Insertar(30);
+            cola.Imprimir();
+            Console.WriteLine("Eliminando dato: " + cola.Eliminar());
+            cola.Imprimir();
+        }
+    }
+
 }
