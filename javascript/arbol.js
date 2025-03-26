@@ -20,6 +20,15 @@ class Tree {
             this.traverseDFS(child);
         }
     }
+    
+    /*
+    traversePostOrder(node = this.root) {
+        for (let child of node.children) {
+            this.traversePostOrder(child); 
+        }
+        console.log(node.value); 
+    }
+        */
 }
 
 const tree = new Tree("Raíz");
