@@ -13,6 +13,10 @@ class HashTable {
     }
     
     set(key, value) {
+        if (typeof value !== 'number' || !Number.isInteger(value)) {
+            throw new Error('Value must be an integer');
+        }
+
         const index = this._hash(key);
         if (this.table[index]) {
             for (let i = 0; i < this.table[index].length; i++) {
