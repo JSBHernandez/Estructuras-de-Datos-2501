@@ -1,0 +1,4 @@
+D:\Desktop\Becerra_Final_2025\obj\Debug\net9.0\Becerra_Final_2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Becerra_Final_2025\obj\Debug\net9.0\Becerra_Final_2025.AssemblyInfoInputs.cache
+D:\Desktop\Becerra_Final_2025\obj\Debug\net9.0\Becerra_Final_2025.AssemblyInfo.cs
+D:\Desktop\Becerra_Final_2025\obj\Debug\net9.0\Becerra_Final_2025.csproj.CoreCompileInputs.cache
